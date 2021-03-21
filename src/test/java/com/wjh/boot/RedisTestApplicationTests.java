@@ -57,4 +57,8 @@ class RedisTestApplicationTests {
 
     }
 
+    void gitChangesTest(){
+        System.out.println("我对RedisTest项目中的RedisTestApplicationTests.java进行了修改");
+    }
+
 }
