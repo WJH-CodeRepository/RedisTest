@@ -59,6 +59,7 @@ class RedisTestApplicationTests {
 
     void gitChangesTest(){
         System.out.println("我对RedisTest项目中的RedisTestApplicationTests.java进行了修改");
+        System.out.println("我在GitHub上输入了这段话");
     }
 
 }
